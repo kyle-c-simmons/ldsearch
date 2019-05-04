@@ -7,7 +7,7 @@ A local directory wordlist generator which can generate a wordlist from any Unix
 -Ruby 
 
 ### Usage
-./ldsearch.rb --directory testdir
+`./ldsearch.rb --directory testdir`
 
 ### Example
 ldsearch is good for creating a small wordlist of a file system or project. This is useful for testing websites with open source projects in which the code can be accessed.
