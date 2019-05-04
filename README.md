@@ -2,7 +2,8 @@
 A local directory wordlist generator which can generate a wordlist from any Unix local directories recursively.
 
 ### Requirements
--Unix Operating ssytem
+-Unix Operating system
+
 -Ruby 
 
 ### Usage
