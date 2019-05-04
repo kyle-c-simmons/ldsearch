@@ -31,4 +31,4 @@ The results show a lot of discovered files on the web server in only a few secon
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
