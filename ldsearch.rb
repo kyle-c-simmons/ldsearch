@@ -69,7 +69,6 @@ class LdSearch
         end
       end
       
-      # if argument true, remove extension? 
       system("mv ldsearch-temp.txt ldsearch-out.txt")
       puts "\nWords generated:"
       system('wc -l < ldsearch-out.txt')
